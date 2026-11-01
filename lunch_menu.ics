@@ -6,57 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:School Lunch Menu
 X-WR-CALDESC:Synced school lunch menu
 BEGIN:VEVENT
-UID:76dbe1cb6e8651c1c2f439c367408956e41693d1@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Lunch: Chicken Nuggets + Roll
-DESCRIPTION:Chicken Nuggets + Roll\nCheese Stuffed Crust Pizza\nYogurt+ Ban
- ana Muffin\,+Cheese Stick+Crackers\nGreen Beans\nFruit\nKetchup\nMustard P
- acket\nLight Mayonnaise
-END:VEVENT
-BEGIN:VEVENT
-UID:3a6a98ab37fbf5ef353d3f4279a31c996ed8139c@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Lunch: Beef Taco and Cheese Nachos
-DESCRIPTION:Beef Taco and Cheese Nachos\nPepperoni Stuffed Crust Pizza\nYog
- urt+ Banana Muffin\,+Cheese Stick+Crackers\nRefried Beans\nFresh Fruit
-END:VEVENT
-BEGIN:VEVENT
-UID:495ee2c90e59838ed819d2d71a77664ce194ef47@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Lunch: Hot Dog on Bun
-DESCRIPTION:Hot Dog on Bun\nCheese Stuffed Crust Pizza\nYogurt+ Banana Muff
- in\,+Cheese Stick+Crackers\nCrinkle Cut French Fries\nApplesauce Cup\nKetc
- hup\nLight Mayonnaise\nMustard Packet
-END:VEVENT
-BEGIN:VEVENT
-UID:b757457ebeb1b9a5c8681c3b19441e6e1c523c39@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Lunch: Rotini with Meat Sauce
-DESCRIPTION:Rotini with Meat Sauce\nPepperoni Stuffed Crust Pizza\nYogurt+ 
- Banana Muffin\,+Cheese Stick+Crackers\nCooked Carrots\nFresh Fruit\nGarlic
-  Toast\nGrated Parmesan Cheese
-END:VEVENT
-BEGIN:VEVENT
-UID:b58ae5c17b9078c35b998f33329ecb25e8578974@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Lunch: Dutch Waffle and Chicken
-DESCRIPTION:Dutch Waffle and Chicken\nCheese Stuffed Crust Pizza\nYogurt+ B
- anana Muffin\,+Cheese Stick+Crackers\nSteamed Corn\nFruit\nCookie\nKetchup
- \nMustard Packet\nLight Mayonnaise
-END:VEVENT
-BEGIN:VEVENT
 UID:b6e50b7b33ca9e2304cdfe2f1b24a8b98627d585@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Lunch: French Toast Sticks and 2 Sausage Patties
@@ -66,17 +17,17 @@ DESCRIPTION:French Toast Sticks and 2 Sausage Patties\nCheese Rolled Edge P
 END:VEVENT
 BEGIN:VEVENT
 UID:e3edef6dcea9a760326df3c41deee5bb445a20b2@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Lunch: Chicken Sandwich
 DESCRIPTION:Chicken Sandwich\nPepperoni Pizza Rolled Edge\nYogurt+ Chocolat
  e Chip Muffin + Cheese Stick + Cracker\nBaked Beans\nDill Pickle Chips\nFr
- esh Fruit\nDinner Roll\nKetchup\nLight Mayonnaise\nMustard Packet
+ esh Fruit\nKetchup\nLight Mayonnaise\nMustard Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:5da601cb0471ad6f1769f2b439d715a93311425b@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Lunch: Cheese Bosco Sticks
@@ -86,7 +37,7 @@ DESCRIPTION:Cheese Bosco Sticks\nCheese Rolled Edge Pizza\nYogurt+ Chocolat
 END:VEVENT
 BEGIN:VEVENT
 UID:84913c5ce2db7e8e16e5f3de62544d82b8ae56de@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Lunch: Orange Chicken w/ Fried Rice
@@ -96,7 +47,7 @@ DESCRIPTION:Orange Chicken w/ Fried Rice\nPepperoni Pizza Rolled Edge\nYogu
 END:VEVENT
 BEGIN:VEVENT
 UID:498ff2641dbfe363d7f2355776fa1398d9e363c7@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lunch: Dutch Waffle and Chicken
@@ -106,7 +57,7 @@ DESCRIPTION:Dutch Waffle and Chicken\nCheese Rolled Edge Pizza\nYogurt+ Cho
 END:VEVENT
 BEGIN:VEVENT
 UID:7f18a4a1b1898c170c56054a83b88c8b2a06d38f@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Lunch: Pizza Crunchers
@@ -115,7 +66,7 @@ DESCRIPTION:Pizza Crunchers\nCheese Stuffed Crust Pizza\nYogurt+ Blueberry
 END:VEVENT
 BEGIN:VEVENT
 UID:7d0dd4389918f5677d664accbe13ce3ee64861c2@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Lunch: Macaroni & Cheese
@@ -124,7 +75,7 @@ DESCRIPTION:Macaroni & Cheese\nPepperoni Stuffed Crust Pizza\nYogurt+ Blueb
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac95f404147472e9f526c20a2458353f6ba1946@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Lunch: Chicken Tenders + Roll
@@ -134,7 +85,7 @@ DESCRIPTION:Chicken Tenders + Roll\nCheese Stuffed Crust Pizza\nYogurt+ Blu
 END:VEVENT
 BEGIN:VEVENT
 UID:cabba79aedca3ac7266d6b97f5db8621d6d12cba@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lunch: Sack Lunch
@@ -142,7 +93,7 @@ DESCRIPTION:Sack Lunch
 END:VEVENT
 BEGIN:VEVENT
 UID:b5009a99456bad15bf556aa9c2d2a8367802a16c@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Lunch: Chicken Nuggets + Roll
@@ -152,7 +103,7 @@ DESCRIPTION:Chicken Nuggets + Roll\nCheese Rolled Edge Pizza\nYogurt+ Banan
 END:VEVENT
 BEGIN:VEVENT
 UID:69128c6f9724d65befe736b5dc1e3bac08adc583@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Lunch: Beef Taco and Cheese Nachos
@@ -161,7 +112,7 @@ DESCRIPTION:Beef Taco and Cheese Nachos\nPepperoni Pizza Rolled Edge\nYogur
 END:VEVENT
 BEGIN:VEVENT
 UID:b126a01bb25337b231d26633c0614ebd10740024@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Lunch: Hot Dog on Bun
@@ -171,7 +122,7 @@ DESCRIPTION:Hot Dog on Bun\nCheese Rolled Edge Pizza\nYogurt+ Banana Muffin
 END:VEVENT
 BEGIN:VEVENT
 UID:28ead3e968e5112aae9f9f2d576fe60498660d61@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lunch: Turkey Slices and Roll
@@ -181,7 +132,7 @@ DESCRIPTION:Turkey Slices and Roll\nPepperoni Pizza Rolled Edge\nYogurt+ Ba
 END:VEVENT
 BEGIN:VEVENT
 UID:917cbbe3e8b8dd5cf7548edc0a3667825ae0f280@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lunch: Dutch Waffle and Chicken
@@ -191,7 +142,7 @@ DESCRIPTION:Dutch Waffle and Chicken\nCheese Rolled Edge Pizza\nYogurt+ Ban
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec98179c2d84cede685195cfa6a1ece1d30abc2@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Lunch: French Toast Sticks and 2 Sausage Patties
@@ -201,21 +152,159 @@ DESCRIPTION:French Toast Sticks and 2 Sausage Patties\nCheese Rolled Edge P
 END:VEVENT
 BEGIN:VEVENT
 UID:c091a5fdf1568881aabb58a4cc9b1371dd398d06@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Lunch: Chicken Sandwich
 DESCRIPTION:Chicken Sandwich\nPepperoni Pizza Rolled Edge\nYogurt+ Chocolat
  e Chip Muffin + Cheese Stick + Cracker\nBaked Beans\nDill Pickle Chips\nFr
- esh Fruit\nDinner Roll\nKetchup\nLight Mayonnaise\nMustard Packet
+ esh Fruit\nKetchup\nLight Mayonnaise\nMustard Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:af8995186b72e8dd6069a7914fbb0fc60c8b3348@cozyla-lunch-menu
-DTSTAMP:20261025T103808Z
+DTSTAMP:20261101T123719Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Lunch: Pizza Crunchers
 DESCRIPTION:Pizza Crunchers\nCheese Stuffed Crust Pizza\nYogurt+ Blueberry 
  Muffin +Cheese Stick+ Cracker\nMarinara Sauce\nGreen Beans\nFruit
+END:VEVENT
+BEGIN:VEVENT
+UID:93a0752c3ae164fef773e5b04681ad25c2a71222@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lunch: Macaroni & Cheese
+DESCRIPTION:Macaroni & Cheese\nPepperoni Stuffed Crust Pizza\nYogurt+ Blueb
+ erry Muffin +Cheese Stick+ Cracker\nBaked Beans\nFresh Fruit\nGarlic Toast
+END:VEVENT
+BEGIN:VEVENT
+UID:c886477170847f4d5fb97f0ba1ad5051d032c688@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Lunch: Chicken Tenders + Roll
+DESCRIPTION:Chicken Tenders + Roll\nCheese Stuffed Crust Pizza\nYogurt+ Blu
+ eberry Muffin +Cheese Stick+ Cracker\nSteamed Corn\nApplesauce Cup\nKetchu
+ p\nLight Mayonnaise\nMustard Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:60cacb765e5113c4ffb420db9a69b97dfdbadc8c@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Lunch: Cheeseburger
+DESCRIPTION:Cheeseburger\nPepperoni Stuffed Crust Pizza\nYogurt+ Blueberry 
+ Muffin +Cheese Stick+ Cracker\nSmiley Fries (6)\nDill Pickle Chips\nFresh 
+ Fruit\nKetchup\nMustard Packet\nLight Mayonnaise
+END:VEVENT
+BEGIN:VEVENT
+UID:350816163e7809b76222c6179194499a3bc450f6@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lunch: Dutch Waffle and Chicken
+DESCRIPTION:Dutch Waffle and Chicken\nCheese Stuffed Crust Pizza\nYogurt+ B
+ lueberry Muffin +Cheese Stick+ Cracker\nCooked Carrots\nFruit\nKetchup\nLi
+ ght Mayonnaise\nMustard Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:fae39cd2cc663454c273711c01662533e2a355f6@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Lunch: Chicken Nuggets + Roll
+DESCRIPTION:Chicken Nuggets + Roll\nCheese Rolled Edge Pizza\nYogurt+ Banan
+ a Muffin\,+Cheese Stick+Crackers\nGreen Beans\nFruit\nKetchup\nMustard Pac
+ ket\nLight Mayonnaise
+END:VEVENT
+BEGIN:VEVENT
+UID:37db303a040478009bece12e3cefc6090c6f982e@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Lunch: Beef Taco and Cheese Nachos
+DESCRIPTION:Beef Taco and Cheese Nachos\nPepperoni Pizza Rolled Edge\nYogur
+ t+ Banana Muffin\,+Cheese Stick+Crackers\nRefried Beans\nFresh Fruit
+END:VEVENT
+BEGIN:VEVENT
+UID:a25c6a1d40e21186eba62bef5845f6afcf34d2e4@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Lunch: Hot Dog on Bun
+DESCRIPTION:Hot Dog on Bun\nCheese Rolled Edge Pizza\nYogurt+ Banana Muffin
+ \,+Cheese Stick+Crackers\nCrinkle Cut French Fries\nApplesauce Cup\nKetchu
+ p\nLight Mayonnaise\nMustard Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f8a631b09c2aab150490858273a6a10928a0c8@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Lunch: Turkey Slices and Roll
+DESCRIPTION:Turkey Slices and Roll\nPepperoni Pizza Rolled Edge\nYogurt+ Ba
+ nana Muffin\,+Cheese Stick+Crackers\nMashed Potatoes\nWhole Green Beans\nF
+ resh Fruit\nGarlic Toast\nTurkey Gravy\nChocolate Chip Cookie
+END:VEVENT
+BEGIN:VEVENT
+UID:9c136fb73f615a2d2267217ff195ee8312226188@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Lunch: Dutch Waffle and Chicken
+DESCRIPTION:Dutch Waffle and Chicken\nCheese Rolled Edge Pizza\nYogurt+ Ban
+ ana Muffin\,+Cheese Stick+Crackers\nSteamed Corn\nFruit\nKetchup\nMustard 
+ Packet\nLight Mayonnaise
+END:VEVENT
+BEGIN:VEVENT
+UID:227f617d37593908f0c48e80a62106bf78988f0a@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lunch: French Toast Sticks and 2 Sausage Patties
+DESCRIPTION:French Toast Sticks and 2 Sausage Patties\nCheese Rolled Edge P
+ izza\nYogurt+ Chocolate Chip Muffin + Cheese Stick + Cracker\nTater Tots\n
+ Fruit\nKetchup\nLight Mayonnaise\nMustard Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:e103de434d32fdf2df9786b1595c83160d5bad0f@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Chicken Sandwich\nPepperoni Pizza Rolled Edge\nYogurt+ Chocolat
+ e Chip Muffin + Cheese Stick + Cracker\nBaked Beans\nDill Pickle Chips\nFr
+ esh Fruit\nKetchup\nLight Mayonnaise\nMustard Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:2282c9f639662c1c4a334f3257e6346cf70f293f@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Lunch: Cheese Bosco Sticks
+DESCRIPTION:Cheese Bosco Sticks\nCheese Rolled Edge Pizza\nYogurt+ Chocolat
+ e Chip Muffin + Cheese Stick + Cracker\nCooked Carrots\nMarinara Sauce\nAp
+ plesauce Cup
+END:VEVENT
+BEGIN:VEVENT
+UID:a1643bd02be588326fe60b23ad012e3afc52ade0@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Lunch: Orange Chicken w/ Fried Rice
+DESCRIPTION:Orange Chicken w/ Fried Rice\nPepperoni Pizza Rolled Edge\nYogu
+ rt+ Chocolate Chip Muffin + Cheese Stick + Cracker\nSteamed Corn\nFresh Fr
+ uit
+END:VEVENT
+BEGIN:VEVENT
+UID:5c567726b2169e4f204080fdfbd1f7419a2db294@cozyla-lunch-menu
+DTSTAMP:20261101T123719Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Lunch: Dutch Waffle and Chicken
+DESCRIPTION:Dutch Waffle and Chicken\nCheese Rolled Edge Pizza\nYogurt+ Cho
+ colate Chip Muffin + Cheese Stick + Cracker\nGreen Beans\nFruit\nKetchup\n
+ Mustard Packet\nLight Mayonnaise
 END:VEVENT
 END:VCALENDAR
